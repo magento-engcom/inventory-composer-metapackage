@@ -1,5 +1,6 @@
 {
     "name": "magento/inventory-metapackage",
+    "description": "Metapackage with Magento Inventory modules for simple installation",
     "type": "metapackage",
     "require": {
         "magento/inventory-composer-installe": "*",
