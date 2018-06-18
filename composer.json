@@ -1,10 +1,10 @@
 {
-    "name": "magento/inventory-metapackage",
+    "name": "magento/inventory-composer-metapackage",
     "version": "1.0.0-beta",
     "description": "Metapackage with Magento Inventory modules for simple installation",
     "type": "metapackage",
     "require": {
-        "magento/inventory-composer-installe": "1.0.0-beta",
+        "magento/inventory-composer-installer": "1.0.0-beta",
         "magento/module-inventory": "1.0.0-beta",
         "magento/module-inventory-admin-ui": "1.0.0-beta",
         "magento/module-inventory-api": "1.0.0-beta",
