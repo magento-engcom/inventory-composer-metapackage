@@ -15,17 +15,17 @@
         "magento/module-inventory-catalog-admin-ui": "^1.0.4",
         "magento/module-inventory-catalog-api": "^1.0.4",
         "magento/module-inventory-catalog-search": "^1.0.4",
-        "magento/module-inventory-configurable-product": "^1.0.3",
+        "magento/module-inventory-configurable-product": "^1.0.4",
         "magento/module-inventory-configurable-product-admin-ui": "^1.0.4",
         "magento/module-inventory-configurable-product-indexer": "^1.0.3",
         "magento/module-inventory-configuration": "^1.0.4",
-        "magento/module-inventory-configuration-api": "^1.0.3",
+        "magento/module-inventory-configuration-api": "^1.0.4",
         "magento/module-inventory-distance-based-source-selection": "^1.0.0",
         "magento/module-inventory-distance-based-source-selection-admin-ui": "^1.0.0",
         "magento/module-inventory-distance-based-source-selection-api": "^1.0.0",
         "magento/module-inventory-elasticsearch": "^1.0.0",
-        "magento/module-inventory-grouped-product": "^1.0.4",
-        "magento/module-inventory-grouped-product-admin-ui": "^1.0.3",
+        "magento/module-inventory-grouped-product": "^1.0.3",
+        "magento/module-inventory-grouped-product-admin-ui": "^1.0.4",
         "magento/module-inventory-grouped-product-indexer": "^1.0.3",
         "magento/module-inventory-import-export": "^1.0.4",
         "magento/module-inventory-indexer": "^1.0.4",
@@ -45,6 +45,6 @@
         "magento/module-inventory-shipping-admin-ui": "^1.0.4",
         "magento/module-inventory-source-deduction-api": "^1.0.4",
         "magento/module-inventory-source-selection": "^1.0.4",
-        "magento/module-inventory-source-selection-api": "^1.0.4"
+        "magento/module-inventory-source-selection-api": "^1.1.0"
     }
 }
