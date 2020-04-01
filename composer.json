@@ -44,7 +44,7 @@
         "magento/module-inventory-reservations-api": "1.0.6",
         "magento/module-inventory-sales": "1.0.8",
         "magento/module-inventory-sales-admin-ui": "1.0.8",
-        "magento/module-inventory-sales-api": "1.0.8",
+        "magento/module-inventory-sales-api": "1.0.7",
         "magento/module-inventory-sales-frontend-ui": "1.0.6",
         "magento/module-inventory-setup-fixture-generator": "1.0.3",
         "magento/module-inventory-shipping": "1.0.8",
